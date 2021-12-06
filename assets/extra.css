@@ -112,7 +112,19 @@ body {
     justify-content: center;
 
     font-family: "Open Sans", sans-serif;
-    background-image: url("./anime_girls_dark_minimalism-1452961.png");
+    background-image: url("./Droou v4.0.png");
+    min-height: 100%;
+    min-width: 1024px;
+      
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+      
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
     background-size: cover;
 	background-position: top center;
 	position: relative;
