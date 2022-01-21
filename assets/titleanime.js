@@ -1,6 +1,6 @@
 let x = 0;
 const title = []
-const nick = 'Droouu'
+const nick = 'Droouu - 100K 😇🎉'
 for (let i = 1; i <= nick.length; ++i) {
 title.push(nick.slice(0, i))
 }
